@@ -387,7 +387,8 @@ a:visited {
         top: 20px;
       }
       .form {
-        width: 96%;
+      width: 96%;
+        scale: 0.9;
         .form__row {
           width: 100%;
         }
